@@ -88,6 +88,8 @@ Robot Simulation & Control · CAD Modeling · Mechanical Design
 ---
 ## Trophies ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=Osita16&theme=gruvbox)](https://github.com/Osita16)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Osita16&theme=gruvbox&margin-w=10&margin-h=15)
+
 
 
 
