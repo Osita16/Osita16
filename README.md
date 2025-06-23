@@ -57,7 +57,7 @@ Robot Simulation & Control · CAD Modeling · Mechanical Design
 
 ---
   
-  ##VOLUNTEERING##
+  ## VOLUNTEERING ##
   <p>
     
   **UNNATI WELFARE SOCIETY**
@@ -86,7 +86,7 @@ Robot Simulation & Control · CAD Modeling · Mechanical Design
 | **🖼️ Background Remover** | Python tool for fast, accurate image background removal. |
 
 ---
-## Trophies##
+## Trophies ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=Osita16&theme=gruvbox)](https://github.com/Osita16)
 
 
