@@ -20,7 +20,8 @@ Currently, I'm figuring out stuffs like:
 ## 🛠️ Skills & Tools 
 
   <P>
-**Languages:**
+    
+   **Languages:**
 C · C++ · Python · HTML · CSS
 
 **Developer Tools:**
