@@ -86,6 +86,9 @@ Robot Simulation & Control · CAD Modeling · Mechanical Design
 | **🖼️ Background Remover** | Python tool for fast, accurate image background removal. |
 
 ---
+## Trophies##
+[![trophy](https://github-profile-trophy.vercel.app/?Osita16=your-Osita16&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📫 Let's Connect!
 
