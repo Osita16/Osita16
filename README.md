@@ -91,6 +91,9 @@ Manipulator
 ## Trophies ##
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Osita16&theme=gruvbox&margin-w=10&margin-h=15)
 
+## 🏅 My Badge Board
+
+[![@osita16's Holopin board](https://holopin.io/api/user/osita16/board?style=flat)](https://holopin.io/@osita16)
 
 
 
