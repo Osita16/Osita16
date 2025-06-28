@@ -93,10 +93,7 @@ Manipulator
 
 ## 🏅 My Badge Board
 
-[![@osita16's Holopin board](https://holopin.io/api/user/osita16/board?style=flat)](https://holopin.io/@osita16)
-
-
-
+[![osita16's Holopin board](https://holopin.io/api/user/osita16/board?style=flat)](https://holopin.io/@osita16)
 
 
 ## 📫 Let's Connect!
