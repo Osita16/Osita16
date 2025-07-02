@@ -83,7 +83,7 @@ Robot Simulation & Control · CAD Modeling · Mechanical Design
 | Project | Description |
 |---------|-------------|
 | **🌱 Agriculture Project** | Harnessing robotics to revolutionize agriculture. *(In Progress)* |
-Manipulator 
+| **Manipulator** | Design an articulated manipulator and simulated it through Matlab |
 | **🚁 Illegal Construction Detection** | Drones + computer vision to spot and report unauthorized buildings. |
 | **🖼️ Background Remover** | Python tool for fast, accurate image background removal. |
 
