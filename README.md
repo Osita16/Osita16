@@ -1,14 +1,20 @@
-<!-- Banner Gif -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Osita16/Osita16/blob/main/assets/banner.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Osita16/Osita16/main/assets/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Osita+Bharti;Robotics+Enthusiast+%7C+Tinker+%7C+Builder+%7C+Dreamer;Let's+build+the+future+with+robots!" alt="Typing SVG" />
-</h1>
 
----
+<!-- If the banner above fails, use a fallback -->
+<!-- <p align="center">
+  <img src="https://i.imgur.com/xyzABC.gif" alt="Banner Fallback" width="100%" />
+</p> -->
+
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+there+👋+I'm+Osita+Bharti;Robotics+Enthusiast+%7C+Tinker+%7C+Builder+%7C+Dreamer;Let's+build+the+future+with+robots!" alt="Typing SVG" />
+</p>
+
+<br><hr><br>
 
 ## 👩‍💻 About Me
 
@@ -22,7 +28,7 @@
  🧩 Understanding the internals of ROS2 (not just running launch files)
 </p>
 
----
+<br><hr><br>
 
 ## 🛠️ Skills & Tools
 
@@ -43,25 +49,25 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
+<br><hr><br>
 
 ## 🌱 Volunteering — *Unnati Welfare Society*
 
-💡 Bridging the digital education gap for underprivileged students.  
-🎯 Leading the **Content Team** and shaping Unnati’s vision from the ground up.  
-🛠️ Tools used: *Canva, Google Sheets, Analytics.*
+💡 Bridging the digital education gap for underprivileged students  
+🎯 Leading the **Content Team** and shaping Unnati’s vision from the ground up  
+🛠️ Tools used: *Canva, Google Sheets, Analytics*
 
----
+<br><hr><br>
 
 ## 🏆 Achievements
 
 - 🥇 **Smart India Hackathon Finalist [2024]**  
-  Innovated a robotics-based solution and reached national finals.
-  
-- 🧠 **Smart India Hackathon [2023]**  
-  Developed an e-commerce platform under the ODOP scheme *(cleared internal round)*.
+  Innovated a robotics-based solution and reached national finals
 
----
+- 🧠 **Smart India Hackathon [2023]**  
+  Developed an e-commerce platform under the ODOP scheme *(cleared internal round)*
+
+<br><hr><br>
 
 ## 🚀 Featured Projects
 
@@ -72,15 +78,17 @@
 | 🛩️ **Illegal Construction Detection** | Drone-based vision system to spot unauthorized buildings |
 | 🎨 **Background Remover** | A Python tool for clean image background removal |
 
----
+<br><hr><br>
 
 ## 🏅 Badge Board
 
 <p align="center">
-  <img src="https://holopin.io/api/user/osita16/board?style=flat" alt="Holopin badge board" />
+  <a href="https://holopin.io/@osita16">
+    <img src="https://holopin.me/osita16" alt="Holopin Badge Board" width="80%"/>
+  </a>
 </p>
 
----
+<br><hr><br>
 
 ## 🏆 GitHub Trophies
 
@@ -88,7 +96,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=radical&margin-w=10&margin-h=15" />
 </p>
 
----
+<br><hr><br>
 
 ## 📊 GitHub Stats & Activity
 
@@ -100,7 +108,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osita16&theme=dracula" alt="Activity Graph"/>
 </p>
 
----
+<br><hr><br>
 
 ## 📫 Let's Connect
 
