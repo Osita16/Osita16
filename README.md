@@ -1,15 +1,14 @@
 <!-- 🎯 Dynamic Typing Header (Blue Colored) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Osita+Bharti;Driven+by+curiosity+and+purpose;Let%27s+build+something+meaningful+together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Osita+Bharti;Driven+by+curiosity+and+purpose;Finding+growth+in+everyday+effort" alt="Typing SVG" />
 </h1>
 
 
 
 
-
 <p align="center">
-  💡 I don't have all the answers, but I'm not afraid to explore.  
-  <br><a href="https://www.linkedin.com/in/ositabharti1631/"><strong>Let’s connect</strong></a> and build something impactful together!
+  🏫 Third-year undergraduate student in Mechatronics and Automation Engineering at IIIT Bhagalpur.
+  <br><a href="https://www.linkedin.com/in/ositabharti1631/"><strong>Let’s connect</strong></a> and achieve together
 </p>
 
 ---
