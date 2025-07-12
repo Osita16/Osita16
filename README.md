@@ -107,16 +107,16 @@
 
 <p align="center">
   <a href="mailto:iamositabharti@gmail.com">
-    <img src="https://img.shields.io/badge/-Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
   </a>
   <a href="mailto:osita.230103026@iiitbh.ac.in">
-    <img src="https://img.shields.io/badge/-College_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-College_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="College Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/ositabharti1631/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ositabharti1631/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Osita16">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Osita16" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
