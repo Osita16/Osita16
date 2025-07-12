@@ -1,34 +1,30 @@
-<!-- Banner -->
+<!-- 🎯 Dynamic Header -->
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00FFD1;"><strong>Osita Bharti</strong></span>
+</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Osita16/Osita16/main/assets/banner.gif" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&width=800&lines=Robotics+%26+Automation+Enthusiast;Tinker+%7C+Innovator+%7C+Problem+Solver;Building+robots+that+solve+real+problems;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </p>
 
-
-<!-- If the banner above fails, use a fallback -->
-<!-- <p align="center">
-  <img src="https://i.imgur.com/xyzABC.gif" alt="Banner Fallback" width="100%" />
-</p> -->
-
-<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+there+👋+I'm+Osita+Bharti;Robotics+Enthusiast+%7C+Tinker+%7C+Builder+%7C+Dreamer;Let's+build+the+future+with+robots!" alt="Typing SVG" />
+  I craft solutions for real-world challenges using code and robotics 🤖<br>
+  <a href="https://www.linkedin.com/in/ositabharti1631/" target="_blank"><strong>Let’s connect and build something impactful together!</strong></a>
 </p>
 
-<br><hr><br>
+---
 
 ## 👩‍💻 About Me
 
 <p align="center">
- 🤖 I'm a <b>Robotics Enthusiast</b> who turns ideas into action — even when messy at first.
- <br><br>
- 🧠 Currently exploring:
- <br>
- 🚀 Robot motion planning and control  
- 🌾 Building farmbot tech for real-world agriculture  
- 🧩 Understanding the internals of ROS2 (not just running launch files)
+  🤖 I'm a <strong>Robotics & Automation Enthusiast</strong> passionate about turning ideas into reality.<br><br>
+  🧠 Currently diving into:<br>
+  🚀 Advanced robot motion planning and control<br>
+  🌾 Developing farmbot tech for sustainable agriculture<br>
+  🧩 Mastering ROS2 internals for robust robotics solutions
 </p>
 
-<br><hr><br>
+---
 
 ## 🛠️ Skills & Tools
 
@@ -49,36 +45,33 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-<br><hr><br>
+---
 
 ## 🌱 Volunteering — *Unnati Welfare Society*
 
 💡 Bridging the digital education gap for underprivileged students  
-🎯 Leading the **Content Team** and shaping Unnati’s vision from the ground up  
-🛠️ Tools used: *Canva, Google Sheets, Analytics*
+🎯 Leading the <strong>Content Team</strong> and shaping Unnati’s vision  
+🛠️ Tools used: <em>Canva, Google Sheets, Analytics</em>
 
-<br><hr><br>
+---
 
 ## 🏆 Achievements
 
-- 🥇 **Smart India Hackathon Finalist [2024]**  
-  Innovated a robotics-based solution and reached national finals
+- 🥇 <strong>Smart India Hackathon Finalist [2024]</strong>: National finalist with a robotics-based solution  
+- 🧠 <strong>Smart India Hackathon [2023]</strong>: Built e-commerce platform for ODOP scheme *(internal round cleared)*
 
-- 🧠 **Smart India Hackathon [2023]**  
-  Developed an e-commerce platform under the ODOP scheme *(cleared internal round)*
-
-<br><hr><br>
+---
 
 ## 🚀 Featured Projects
 
 | 💡 Project | 📝 Description |
 |-----------|----------------|
-| 🌾 **Agriculture Robot** | Robotics for real-world farming — under development |
+| 🌾 **Agriculture Robot** | Robotics for sustainable farming — under active development |
 | 🤖 **Manipulator Simulation** | Articulated manipulator designed in SolidWorks, simulated in MATLAB |
-| 🛩️ **Illegal Construction Detection** | Drone-based vision system to spot unauthorized buildings |
-| 🎨 **Background Remover** | A Python tool for clean image background removal |
+| 🛩️ **Illegal Construction Detection** | Drone-based vision system to detect unauthorized buildings |
+| 🎨 **Background Remover** | Python tool for seamless image background removal |
 
-<br><hr><br>
+---
 
 ## 🏅 Badge Board
 
@@ -88,27 +81,25 @@
   </a>
 </p>
 
-<br><hr><br>
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=radical&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=onedark&no-frame=true&column=6&margin-w=8" />
 </p>
 
-<br><hr><br>
+---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osita16&show_icons=true&theme=radical" alt="Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osita16&theme=radical" alt="Streak"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osita16&theme=dracula" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Osita16&show_icons=true&theme=chartreuse-dark&title_color=00FFD1&icon_color=7DF9FF" alt="Stats"/><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osita16&theme=chartreuse-dark&ring=00FFD1&fire=7DF9FF" alt="Streak"/><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osita16&theme=react-dark&color=00f7ff&line=2AF5FF&point=ffffff&area=true&area_color=00f7ff40" alt="Activity Graph"/>
 </p>
 
-<br><hr><br>
+---
 
 ## 📫 Let's Connect
 
