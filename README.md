@@ -1,10 +1,11 @@
 <!-- 🎯 Dynamic Typing Header (Blue Colored) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Osita+Bharti;Robotics+%26+Automation+Enthusiast;Innovator+%7C+Tinker+%7C+Problem+Solver;Let's+build+robots+that+solve+real+problems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Osita+Bharti;Robotics+%26+Automation+Enthusiast;Innovator+%7C+Tinker+%7C+Problem+Solver;Let's+build+robots+that+solve+real+problems!" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
- 💡 I don't have all the answers, but I'm not afraid to explore.
+  💡 I craft solutions for real-world challenges using code and robotics.  
   <br><a href="https://www.linkedin.com/in/ositabharti1631/"><strong>Let’s connect</strong></a> and build something impactful together!
 </p>
 
@@ -116,3 +117,4 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
