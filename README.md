@@ -99,8 +99,12 @@ Robot Simulation & Control · CAD Modeling · Mechanical Design
 ## 📫 Let's Connect!
 
 <p>
-  <a href="iamositabharti@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-    <a href="osita.230103026@iiitbh.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:iamositabharti@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
+<a href="mailto:osita.230103026@iiitbh.ac.in">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
   <a href="https://www.linkedin.com/in/ositabharti1631/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Osita16"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
