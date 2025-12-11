@@ -1,14 +1,12 @@
-<!-- 🎯 Dynamic Typing Header (Blue Colored) -->
+<!-- 🎯 Dynamic Typing Header (Purple Gradient) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Osita+Bharti;Driven+by+curiosity+and+purpose;Finding+growth+in+everyday+effort" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=BF00FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Osita+Bharti;Driven+by+curiosity+and+purpose;Finding+growth+in+everyday+effort" alt="Typing SVG" />
 </h1>
-
-
-
 
 <p align="center">
   🏫 Third-year undergraduate student in Mechatronics and Automation Engineering at IIIT Bhagalpur.
-  <br><a href="https://www.linkedin.com/in/ositabharti1631/"><strong>Let’s connect</strong></a> and achieve together
+  <br>
+  <a href="https://www.linkedin.com/in/ositabharti1631/"><strong>Let’s connect</strong></a> and achieve together 🚀
 </p>
 
 ---
@@ -16,11 +14,10 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  🤖 A passionate <strong>Robotics & Automation Enthusiast</strong> who turns ideas into action.  
-  <br><br>
-  🚀 Exploring robot motion planning & control  
-  🌾 Building smart farmbots for agriculture  
-  🧩 Digging deep into ROS2 internals  
+  🤖 A passionate <strong>Robotics & Automation Enthusiast</strong> who turns ideas into action.<br><br>
+  🚀 Exploring robot motion planning & control <br>
+  🌾 Building smart farmbots for agriculture <br>
+  🧩 Digging deep into ROS2 internals <br>
 </p>
 
 ---
@@ -50,7 +47,7 @@
 
 💡 Helping bridge the digital education gap for underprivileged students  
 🎯 Leading the <strong>Content Team</strong> and shaping Unnati’s vision  
-🛠️ Tools: Canva · Google Sheets · Social Media Analytics
+🛠️ Tools: Canva · Google Sheets · Social Media Analytics  
 
 ---
 
@@ -85,7 +82,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Fixed)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=tokyonight&no-frame=true&column=6&margin-w=10"/>
@@ -93,12 +90,18 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity (Enhanced & Working)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osita16&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=7DF9FF" alt="Stats"/><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osita16&theme=tokyonight&ring=00BFFF&fire=FF61D0" alt="Streak"/><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osita16&theme=tokyo-night&color=00f7ff&line=2AF5FF&point=ffffff&area=true&area_color=00f7ff40" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Osita16&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=7DF9FF" height="170" alt="Stats"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Osita16&theme=tokyonight&ring=00BFFF&fire=FF61D0&currStreakLabel=FFFFFF" height="170" alt="Streak"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osita16&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -106,17 +109,8 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:iamositabharti@gmail.com">
-    <img src="https://img.shields.io/badge/-Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
-  </a>
-  <a href="mailto:osita.230103026@iiitbh.ac.in">
-    <img src="https://img.shields.io/badge/-College_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="College Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ositabharti1631/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Osita16" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:iamositabharti@gmail.com"><img src="https://img.shields.io/badge/-Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:osita.230103026@iiitbh.ac.in"><img src="https://img.shields.io/badge/-College_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ositabharti1631/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Osita16" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
