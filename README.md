@@ -75,24 +75,19 @@
 
 ---
 
-## 🏅 Badge Board
+### 🏆 Holopin Badges
+<a href="https://holopin.io/@osita16">
+  <img src="https://holopin.me/osita16" alt="Holopin Badges" width="100%" />
+</a>
 
-<p align="center">
-  <a href="https://holopin.io/@osita16">
-    <img src="https://holopin.me/osita16" alt="Holopin Badge Board" width="80%"/>
-  </a>
-</p>
+<br>
 
----
+### 🏆 GitHub Trophies
+<a href="https://github.com/Osita16">
+  <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+</a>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Osita16">
-    <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"/>
-  </a>
-</p>
-
+<br>
 
 
 ---
