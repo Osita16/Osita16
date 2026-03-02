@@ -111,9 +111,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Osita16/Osita16/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+![Snake animation](https://github.com/Osita16/Osita16/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
