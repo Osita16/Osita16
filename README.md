@@ -93,22 +93,11 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=algolia&no-frame=true&column=6"/>
+[![trophy](https://github-profile-trophy.vercel.app/?Osita16=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
-
 ---
 
-## 🎖 Holopin Badges
-
-<p align="center">
-<a href="https://holopin.io/@osita16">
-  <img src="https://holopin.me/osita16" width="80%"/>
-</a>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
