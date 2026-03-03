@@ -92,13 +92,14 @@
 
 ---
 ---
+<br>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+<a href="https://github.com/Osita16">
+  <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
-
+<br>
 ---
 
 ## 📈 Contribution Graph
