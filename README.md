@@ -52,6 +52,48 @@
 - 🎯 Precision over noise  
 - 🚀 Iterate relentlessly  
 
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 4-DOF Manipulator – CTC  
+MATLAB-based dynamic modeling  
+and controller implementation.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🔹 SmartNavBot (ROS2)  
+Autonomous navigation  
+using ROS2 architecture.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 QR / ArUco Maze Solver  
+Vision-based robot  
+navigation system.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🔹 Agricultural Robotics  
+Automation-focused  
+intelligent farming solution.
+
+</td>
+</tr>
+</table>
+
+<br>
 </div>
 
 </td>
@@ -61,8 +103,6 @@
 <div style="border:2px solid #BB86FC; padding:15px; border-radius:10px;">
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Osita16&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
 <br>
 
@@ -84,6 +124,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Osita16&theme=midnight_purple"/>
 
+
 </div>
 
 </td>
@@ -91,16 +132,11 @@
 </table>
 
 ---
----
-<br>
 
 ### 🏆 GitHub Trophies
-<a href="https://github.com/Osita16">
-  <img src="https://github-profile-trophy.vercel.app/?username=Osita16&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</a>
-
-<br>
----
+<p align="center">
+<img src="https://github-trophies.vercel.app/?username=Osita16&theme=tokyonight&no-frame=true&column=7" />
+</p>
 
 ## 📈 Contribution Graph
 
@@ -118,4 +154,5 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:1a0026&height=120&section=footer"/>
+
 </p>
